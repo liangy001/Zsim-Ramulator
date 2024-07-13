@@ -1,0 +1,2 @@
+Pin 2.14 kit 71293
+E:  Unable to load /home/yue/zsim/build/opt/libzsim.so: /home/yue/zsim/build/opt/libzsim.so: undefined symbol: _ZN9ramulator11ZsimWrapper4tickEv
